@@ -28,6 +28,11 @@ From the previous assignment, we can see our system step response of open loop c
 
 ![alt text][image_1]
 
+<br>
+<br>
+<br>
+<br>
+
 ## Symmetric Root Locus
 
 To find the symmetric root locus of the system, we must first calculate the transfer function of the system from state space equations. We can easily do this by using Matlab built-in functions as follows:
